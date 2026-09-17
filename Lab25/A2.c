@@ -1,4 +1,4 @@
-```c id="xw4t1e"
+
 #include <stdio.h>
 
 int main() {
@@ -30,4 +30,3 @@ int main() {
 
     return 0;
 }
-```
